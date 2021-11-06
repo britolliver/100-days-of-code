@@ -12,6 +12,7 @@
 
 **Thoughts:** I am so sad and discouraged. I don't know if coding is a fit for me because I don't know what to do. All the resources are confusing and none are linear but I feel like I am the problem. I have no clue how to do a portfolio, or if I am ready. Should I do a course as well or just learn by doing a portfolio? I hope the whole 100 days are not like this. I have no clue what to do and no one to ask for guidance. I work and am tired. I did a bootcamp but obviously I learned nothing. Either I will finsih or I will give up. I don't know what to do. It is all too much. I think If I don't know everything I won't be able to get a job. Should I focus on one language or course? Courses are how I think I have to learn. What if there is something i don't know? But I am glad that I get to look at the fact that I did something on today's progress. That is my small ounce of hope.
 
+I just a brekthrough and I madea  timeline and guide fro myself. It is simple and easy. Nothing complex. I am excited for this.  Will give more info tomorrow .
 **Link to work**https://github.com/britolliver/portfolio
 
 ### Day 0: February 30, 2016 (Example 2)
