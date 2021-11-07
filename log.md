@@ -15,14 +15,14 @@
 I just a brekthrough and I madea  timeline and guide fro myself. It is simple and easy. Nothing complex. I am excited for this.  Will give more info tomorrow .
 **Link to work**https://github.com/britolliver/portfolio
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 2: November 6, 2021
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Today's Progress**: Watched 15 min of JS course on YT , took notes and set up codeeditor and repo for that; reasearched in bootcamp book about variables and other concepts in JS;did FCC JS course that goes with the YT video for 15 min; Read Java book for 15 min and set up code editor and github repo for that and made first commit; Created a wireframe and user stories for 1st project idea, set up in code editor and repo for that
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Thoughts**: I was so tired today and almost did not do anything but praise God I stuck with it. Even though I did mainly everything in 15 minute increments except the project because I am so tired and it is so late(2 am right now), I feel the most productive I have felt since high school. Because this is all my doing. No one is making me and no one is telling me I have to hav something turned in by Monday at 11pm. Coding is becoming less of a "get a career quicker and cheaper than college" scheme and more of something that I love, something that is mine. I am able to process and settle down now that I am not worried and overwhelmed. The articles shared in the read me helped get me here because I was ready to quit. I am excited for tomorrow(or today lol). Also glad I am going over the basics again JS and reading a Java book so I don't lose skill in it. Planning time in these areas helped ease anxiety and the feeling of being overwhelmed. i hope I learn to type fster with no mistakes.
+
+**Link(s) to work**: [JS course repo](https://github.com/britolliver/JavaScriptCourse), [JS course on youtube](https://www.youtube.com/watch?v=PkZNo7MFNFg), [JavaBook repo](https://github.com/britolliver/LearnJavaBook), [1st Project Repo](https://github.com/britolliver/SimpleQuizGame)
 
 
 ### Day 1: June 27, Monday
