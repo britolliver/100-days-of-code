@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: November 5, 2021
+### Day 1: November 5, 2021
 <!-- ##### (delete me or comment me out)
 
 **Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
@@ -25,12 +25,15 @@ I just had a brekthrough and I made a timeline and guide fro myself. It is simpl
 **Link(s) to work**: [JS course repo](https://github.com/britolliver/JavaScriptCourse), [JS course on youtube](https://www.youtube.com/watch?v=PkZNo7MFNFg), [JavaBook repo](https://github.com/britolliver/LearnJavaBook), [1st Project Repo](https://github.com/britolliver/SimpleQuizGame)
 
 
-### Day 1: June 27, Monday
+### Day 3: November 7, 2021
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: YT course, fcc course, html, book
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** 
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+1.[JS course repo](https://github.com/britolliver/JavaScriptCourse)
+2.[JS course on youtube](https://www.youtube.com/watch?v=PkZNo7MFNFg)
+3.[JavaBook repo](https://github.com/britolliver/LearnJavaBook)
+4.[1st Project Repo](https://github.com/britolliver/SimpleQuizGame)
+
