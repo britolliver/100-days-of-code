@@ -37,3 +37,16 @@ I just had a brekthrough and I made a timeline and guide fro myself. It is simpl
 3.[JavaBook repo](https://github.com/britolliver/LearnJavaBook)
 4.[1st Project Repo](https://github.com/britolliver/SimpleQuizGame)
 
+### Day 4: November 16, 2021
+
+**Today's Progress**: YT course, fcc course, python course
+
+**Thoughts:** I did not complete all my tasks today. I want to watch a movie. I will pick up where I left off. I got a lot done today I think. I enjoyed and learned a lot. The python course is so cool to me. I'm creating lots of possibilities for myself in the future by learning may things. I made a game on FreeCodeCamp called Madlibs. I really liked that. Day 4 down, 96 more to go!!
+
+
+**Link(s) to work**
+1.[JS course repo](https://github.com/britolliver/JavaScriptCourse)
+2.[JS course on youtube](https://www.youtube.com/watch?v=PkZNo7MFNFg)
+3.[Python course on datacamp](https://campus.datacamp.com/courses/intro-to-python-for-data-science/chapter-2-python-lists?ex=1)
+
+
