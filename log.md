@@ -49,7 +49,7 @@ I just had a brekthrough and I made a timeline and guide fro myself. It is simpl
 2.[JS course on youtube](https://www.youtube.com/watch?v=PkZNo7MFNFg)
 3.[Python course on datacamp](https://campus.datacamp.com/courses/intro-to-python-for-data-science/chapter-2-python-lists?ex=1)
 
-### Day 4: November 16, 2021
+### Day 5: November 20, 2021
 
 **Today's Progress**: Java project
 
