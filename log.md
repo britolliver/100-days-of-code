@@ -57,7 +57,5 @@ I just had a brekthrough and I made a timeline and guide fro myself. It is simpl
 
 
 **Link(s) to work**
-
-
-
+1.[Project set up](https://github.com/britolliver/SimpleQuizGame/commit/134a03241cba86ef0bb28592cb8ec8a6dcd0463e)
 
