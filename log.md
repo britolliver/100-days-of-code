@@ -63,7 +63,7 @@ I just had a brekthrough and I made a timeline and guide fro myself. It is simpl
 
 **Today's Progress**: Java project
 
-**Thoughts:** Worked on my project;  
+**Thoughts:** Worked on my project;  Did a few courses
 
 
 **Link(s) to work**
@@ -107,7 +107,7 @@ I just had a brekthrough and I made a timeline and guide fro myself. It is simpl
 
 **Today's Progress**: Java project
 
-**Thoughts:** Worked on my project; Fixed Thymeleaf issues, got three quiz questions with answer choices and previous and next buttons working, made new github repository.
+**Thoughts:** Worked on my project; Fixed Thymeleaf issues, got three quiz questions with answer choices and previous and next buttons working, made new github repository. I have made so much progress and I am so excited. 
 
 
 **Link(s) to work**
