@@ -59,3 +59,57 @@ I just had a brekthrough and I made a timeline and guide fro myself. It is simpl
 **Link(s) to work**
 1.[Project set up](https://github.com/britolliver/SimpleQuizGame/commit/134a03241cba86ef0bb28592cb8ec8a6dcd0463e)
 
+### Day 6: December 7, 2021
+
+**Today's Progress**: Java project
+
+**Thoughts:** Worked on my project;  
+
+
+**Link(s) to work**
+1.[Project](https://github.com/britolliver/HairStyle-Quiz)
+
+
+### Day 7: December 8, 2021
+
+**Today's Progress**: Java project
+
+**Thoughts:** Worked on my project;  
+
+
+**Link(s) to work**
+1.[Project](https://github.com/britolliver/HairStyle-Quiz)
+
+
+### Day 8: December 20, 2021
+
+**Today's Progress**: Java project
+
+**Thoughts:** Worked on my project;  
+
+
+**Link(s) to work**
+1.[Project](https://github.com/britolliver/HairStyle-Quiz)
+
+
+### Day 9: December 21, 2021
+
+**Today's Progress**: Java project
+
+**Thoughts:** Worked on my project;  
+
+
+**Link(s) to work**
+1.[Project](https://github.com/britolliver/HairStyle-Quiz)
+
+
+### Day 10: December 22, 2021
+
+**Today's Progress**: Java project
+
+**Thoughts:** Worked on my project; Fixed Thymeleaf issues, got three quiz questions with answer choices and previous and next buttons working, made new github repository.
+
+
+**Link(s) to work**
+1.[Project](https://github.com/britolliver/HairStyle-Quiz)
+
